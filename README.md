@@ -1,7 +1,8 @@
 bibtexParseJs
 =============
 A JavaScript library that parses BibTeX parser. Forked from 
-[bibtex-parser](https://github.com/mikolalysenko/bibtex-parser).
+[ORCID bibtex-parser](https://github.com/ORCID/bibtexParseJs).
+Added a modification that enables the parsing of the BibTeX format that Endnote uses.
 
 
 ## Using in Browser
