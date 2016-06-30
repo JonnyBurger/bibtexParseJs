@@ -21,7 +21,8 @@
     "bibtex",
     "json",
     "javascript",
-    "parser"
+    "parser",
+    "endnote"
   ],
   "author": "rcpeters",
   "license": "MIT",
